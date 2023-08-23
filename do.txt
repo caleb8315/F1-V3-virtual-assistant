@@ -1,0 +1,6 @@
+
+Add calculator
+add weather
+expand madlibs game
+add  convo if said certian word, for example; wanna date0 = speak( I DO not date human)
+
